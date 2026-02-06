@@ -52,7 +52,7 @@ export default defineConfig({
       name: 'webkit',
       use: { ...devices['Desktop Safari'] },
     },
-
+      //test
     /* Test against mobile viewports. */
     // {
     //   name: 'Mobile Chrome',
